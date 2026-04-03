@@ -1,6 +1,6 @@
 {
     "name": "robot200-Servo_Arms_Small-Test ",
-    "version": "1.0.0",
+    "version": "0.1.0",
     "description": "",
     "dependencies": {
         "core": "*",
